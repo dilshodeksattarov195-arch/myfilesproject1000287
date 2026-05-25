@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersrocess",
+        "uuid": 2043153,
+        "checksum": "7x388p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
